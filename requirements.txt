@@ -5,3 +5,4 @@ bokeh
 dill
 pip
 simplejson
+gunicorn
